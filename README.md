@@ -1,4 +1,5 @@
 # maths
 practicing problems
 1. adding to numbers using python
-2. adding sub using python
+2. subtracting using python
+3. performing multiplication using python 
