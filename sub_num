@@ -1,4 +1,4 @@
 x=999
-y=098744
-results=x-y
+t=846489
+results=x-t
 print("the value=",results)
