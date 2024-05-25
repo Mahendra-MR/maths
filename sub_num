@@ -1,0 +1,4 @@
+x=999
+y=098744
+results=x-y
+print("the value=",results)
