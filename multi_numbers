@@ -1,0 +1,4 @@
+a=9999
+b=88
+results=a*b
+print("the value=", results)
